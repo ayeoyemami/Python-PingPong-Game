@@ -34,9 +34,6 @@ You can modify the game settings directly in the `pingpong_game.py` script:
 - **Paddle Size:** Change the `shapesize` parameter for the paddles.
 - **Screen Dimensions:** Update the `setup(width, height)` function to alter the game window size.
 
-## Example Gameplay
-Add screenshots or GIFs of the gameplay to this section to showcase how the game looks.
-
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
